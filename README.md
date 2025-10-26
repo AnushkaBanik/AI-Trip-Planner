@@ -110,6 +110,9 @@ Ensure both frontend and backend servers are running, then access the app via ht
 
 ## APPENDIX / DEMO SECTION 🎬
 
-ai-trip-planner-five-eosin.vercel.app
+## DEMO SECTION 🎬
+
+Live Demo: [https://ai-trip-planner-five-eosin.vercel.app](https://ai-trip-planner-five-eosin.vercel.app)
+
 
 
